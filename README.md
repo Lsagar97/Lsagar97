@@ -1,4 +1,5 @@
 some words about me✨
+
 mining engineer turning up to an IT proffesional.(bill gates sir, the inspiration)
   [ A man who believes much more in discipline than motivations.
    Start unknown finish unforgetteble.]

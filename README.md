@@ -6,7 +6,7 @@ mining engineer turning up to an IT proffesional.
    Start unknown finish unforgetteble.]
 - 👋 Hi, I’m lakshmi sagar P
 - 👀 I’m interested in Data science 
-- 📫 you can mail to likithjack57@gmail.com to reach out me
+- 📫 you can mail to lakshmi.sagar.lsp@gmail.com to reach out me
 
 <!---
 Lsagar97/Lsagar97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

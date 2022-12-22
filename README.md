@@ -6,7 +6,6 @@ mining engineer turning up to an IT proffesional.
    Start unknown finish unforgetteble.]
 - 👋 Hi, I’m lakshmi sagar P
 - 👀 I’m interested in Data science 
-- 🌱 I’m currently learning python,mysql
 - 📫 you can mail to likithjack57@gmail.com to reach out me
 
 <!---
